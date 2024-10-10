@@ -1,0 +1,7 @@
+{
+"price": "{price}",
+message_id: "{message_id}",
+"timestamp": "{timestamp}",
+ "method": "{method}",
+ "uri": "{uri}"
+ }

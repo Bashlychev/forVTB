@@ -1,0 +1,7 @@
+SELECT pur.customer, SUM(pr.cost) AS total_cost
+FROM purchases pur
+JOIN products pr ON pur.product = pr.product
+WHERE pur.date BETWEEN '2023-08-20 00:00:00' AND '2023-08-29 23:59:59'
+GROUP BY pur.cutsomer
+ORDER BY total_cost
+LIMIT 5;

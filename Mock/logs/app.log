@@ -1,0 +1,30 @@
+2024-10-10T12:33:13.594+04:00  INFO 130788 --- [demo] [main] com.example.demo.DemoApplicationTests    : Starting DemoApplicationTests using Java 22-ea with PID 130788 (started by owanjila in /home/owanjila/Documents/Repositories/forVTB/Mock)
+2024-10-10T12:33:13.595+04:00  INFO 130788 --- [demo] [main] com.example.demo.DemoApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-10-10T12:33:14.536+04:00  INFO 130788 --- [demo] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoints beneath base path '/actuator'
+2024-10-10T12:33:14.567+04:00  INFO 130788 --- [demo] [main] com.example.demo.DemoApplicationTests    : Started DemoApplicationTests in 1.179 seconds (process running for 1.677)
+2024-10-10T12:34:06.703+04:00  INFO 131551 --- [demo] [main] c.e.demo.RequestHandlerApplication       : Starting RequestHandlerApplication using Java 17.0.11 with PID 131551 (/home/owanjila/Documents/Repositories/forVTB/Mock/target/classes started by owanjila in /home/owanjila/Documents/Repositories/forVTB/Mock)
+2024-10-10T12:34:06.704+04:00  INFO 131551 --- [demo] [main] c.e.demo.RequestHandlerApplication       : No active profile set, falling back to 1 default profile: "default"
+2024-10-10T12:34:07.385+04:00  INFO 131551 --- [demo] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8099 (http)
+2024-10-10T12:34:07.392+04:00  INFO 131551 --- [demo] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-10T12:34:07.392+04:00  INFO 131551 --- [demo] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-10-10T12:34:07.417+04:00  INFO 131551 --- [demo] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-10T12:34:07.418+04:00  INFO 131551 --- [demo] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 690 ms
+2024-10-10T12:34:07.854+04:00  INFO 131551 --- [demo] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 16 endpoints beneath base path '/actuator'
+2024-10-10T12:34:07.903+04:00  INFO 131551 --- [demo] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8099 (http) with context path '/'
+2024-10-10T12:34:07.918+04:00  INFO 131551 --- [demo] [main] c.e.demo.RequestHandlerApplication       : Started RequestHandlerApplication in 1.535 seconds (process running for 1.708)
+2024-10-10T12:34:08.137+04:00  INFO 131551 --- [demo] [http-nio-8099-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-10T12:34:08.137+04:00  INFO 131551 --- [demo] [http-nio-8099-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-10T12:34:08.138+04:00  INFO 131551 --- [demo] [http-nio-8099-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-10-10T12:34:25.677+04:00  INFO 131808 --- [demo] [main] com.example.demo.Application             : Starting Application using Java 17.0.11 with PID 131808 (/home/owanjila/Documents/Repositories/forVTB/Mock/target/classes started by owanjila in /home/owanjila/Documents/Repositories/forVTB/Mock)
+2024-10-10T12:34:25.679+04:00  INFO 131808 --- [demo] [main] com.example.demo.Application             : No active profile set, falling back to 1 default profile: "default"
+2024-10-10T12:34:26.278+04:00  INFO 131808 --- [demo] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8099 (http)
+2024-10-10T12:34:26.284+04:00  INFO 131808 --- [demo] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-10T12:34:26.284+04:00  INFO 131808 --- [demo] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-10-10T12:34:26.312+04:00  INFO 131808 --- [demo] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-10T12:34:26.312+04:00  INFO 131808 --- [demo] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 601 ms
+2024-10-10T12:34:26.686+04:00  INFO 131808 --- [demo] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 16 endpoints beneath base path '/actuator'
+2024-10-10T12:34:26.720+04:00  INFO 131808 --- [demo] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8099 (http) with context path '/'
+2024-10-10T12:34:26.728+04:00  INFO 131808 --- [demo] [main] com.example.demo.Application             : Started Application in 1.299 seconds (process running for 1.507)
+2024-10-10T12:34:38.138+04:00  INFO 131808 --- [demo] [http-nio-8099-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-10T12:34:38.139+04:00  INFO 131808 --- [demo] [http-nio-8099-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-10T12:34:38.139+04:00  INFO 131808 --- [demo] [http-nio-8099-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
